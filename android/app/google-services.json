@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "367777339517",
+    "firebase_url": "https://unochat-1932f.firebaseio.com",
+    "project_id": "unochat-1932f",
+    "storage_bucket": "unochat-1932f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367777339517:android:5ff0332de572277033b914",
+        "android_client_info": {
+          "package_name": "com.pratiklodha.unochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367777339517-nl94htvd35ml9btotf0bba4pu6gild6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO2LNi9utYxESiuFMPMF-H4W2-DlBfBZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367777339517-nl94htvd35ml9btotf0bba4pu6gild6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
